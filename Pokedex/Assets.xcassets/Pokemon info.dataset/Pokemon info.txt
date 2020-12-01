@@ -1,0 +1,34 @@
+Name: Articuno
+Category: Freeze Pokémon
+Pokédex Numbrer: #144
+Type: Ice/Flying
+Height: 1.7m
+Weight: 55.4kg
+
+Name: Zapdos
+Category: Electric Pokémon
+Pokédex Numbrer: #145
+Type: Electric/Flying
+Height: 1.6m
+Weight: 52.6kg
+
+Name: Moltres
+Category: Flame Pokémon
+Pokédex Numbrer: #146
+Type: Fire/Flying
+Height: 2.0m
+Weight: 60kg
+
+Name: Lugia
+Category: Diving Pokémon
+Pokédex Numbrer: #249
+Type: Psychic/Flying
+Height: 5.2m
+Weight: 216.0kg
+
+Name: Ho-Oh
+Category: Rainbow Pokémon
+Pokédex Numbrer: #250
+Type: Fire/Flying
+Height: 3.8m
+Weight: 199.0kg
